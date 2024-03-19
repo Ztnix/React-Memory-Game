@@ -1,0 +1,11 @@
+#root {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body {
+  font-family: "PokemonFireRedRegular";
+  background-image: url(https://wallpapercave.com/wp/wp10311649.png);
+}

@@ -1,0 +1,13 @@
+.scoreBoardContainer {
+  font-size: 2rem;
+  background-color: white;
+  border-color: black;
+  border-style: solid;
+  width: fit-content;
+  padding: 1rem;
+}
+
+.topPage {
+  display: flex;
+  justify-content: center;
+}
